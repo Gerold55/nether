@@ -1,4 +1,4 @@
-default
+nether_core
 player_monoids?
 armor_monoid?
 pova?
